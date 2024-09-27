@@ -1,4 +1,4 @@
-Anders Wikström — Type Designer
+Hi! I’m Anders Wikström and I’m a type designer :)
 
 Typefaces designed by me that will be available on this GitHub profile:
 * Loopy
