@@ -2,7 +2,7 @@
 
 ## Projects
 ### Typefaces designed by me that will be available on this GitHub profile:
-* Loopy
+* Loopy (https://github.com/andotype/Loopy)
 
 ### Typefaces that I’ve worked on that are available on other GitHub profiles:
 * Familjen Grotesk (https://github.com/Familjen-Sthlm/Familjen-Grotesk)
